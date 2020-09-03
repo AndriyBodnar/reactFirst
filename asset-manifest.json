@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/reactFirst/static/css/main.e42977d5.chunk.css",
+    "main.js": "/reactFirst/static/js/main.496a3e75.chunk.js",
+    "main.js.map": "/reactFirst/static/js/main.496a3e75.chunk.js.map",
+    "runtime-main.js": "/reactFirst/static/js/runtime-main.2bcc09da.js",
+    "runtime-main.js.map": "/reactFirst/static/js/runtime-main.2bcc09da.js.map",
+    "static/js/2.c656c403.chunk.js": "/reactFirst/static/js/2.c656c403.chunk.js",
+    "static/js/2.c656c403.chunk.js.map": "/reactFirst/static/js/2.c656c403.chunk.js.map",
+    "index.html": "/reactFirst/index.html",
+    "precache-manifest.77fb2478af5cb5ce10b70fbaa1be9406.js": "/reactFirst/precache-manifest.77fb2478af5cb5ce10b70fbaa1be9406.js",
+    "service-worker.js": "/reactFirst/service-worker.js",
+    "static/css/main.e42977d5.chunk.css.map": "/reactFirst/static/css/main.e42977d5.chunk.css.map",
+    "static/js/2.c656c403.chunk.js.LICENSE.txt": "/reactFirst/static/js/2.c656c403.chunk.js.LICENSE.txt",
+    "static/media/arrow.svg": "/reactFirst/static/media/arrow.371f610e.svg",
+    "static/media/comment.svg": "/reactFirst/static/media/comment.8d3e51c7.svg",
+    "static/media/like.svg": "/reactFirst/static/media/like.c2e1643f.svg",
+    "static/media/repost.svg": "/reactFirst/static/media/repost.501c6325.svg",
+    "static/media/share.svg": "/reactFirst/static/media/share.499187f3.svg",
+    "static/media/verified.svg": "/reactFirst/static/media/verified.2019cadf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bcc09da.js",
+    "static/js/2.c656c403.chunk.js",
+    "static/css/main.e42977d5.chunk.css",
+    "static/js/main.496a3e75.chunk.js"
+  ]
+}
